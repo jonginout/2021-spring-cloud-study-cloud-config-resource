@@ -12,5 +12,5 @@ token:
 gateway:
   ip: localhost
 
-oder_server:
+order_service:
   url: http://localhost:8000/order-service
